@@ -1,0 +1,27 @@
+{
+  "title": "Sunflower Fatty Acid Stability GWAS: analysis code",
+  "description": "Analysis code for a genome-wide association study of seed fatty acid composition and its stability in the sunflower (Helianthus annuus L.) association mapping population across eight North American environments. Includes phenotype preparation, Eberhart and Russell beta stability estimation, CHELSA climate extraction and correlation, genotype and kinship analysis, multivariate GEMMA and univariate vcf2gwas runs, post-GWAS candidate gene identification, and chromosome 5 introgression analysis.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    { "name": "Ingold, Markus", "affiliation": "North Dakota State University, Fargo, ND, USA", "orcid": "0009-0006-2435-3750" },
+    { "name": "Gao, Qingming", "affiliation": "Cibus US, LLC, San Diego, CA, USA" },
+    { "name": "Mandel, Jennifer R.", "affiliation": "The University of Memphis, Memphis, TN, USA", "orcid": "0000-0003-3539-2991" },
+    { "name": "McNellie, James P.", "affiliation": "USDA-Agricultural Research Service, Fargo, ND, USA", "orcid": "0000-0001-8067-511X" },
+    { "name": "Keepers, Kyle G.", "affiliation": "University of Colorado, Boulder, CO, USA", "orcid": "0000-0002-2288-8018" },
+    { "name": "Barb, Jessica G.", "affiliation": "University of Georgia, Athens, GA, USA" },
+    { "name": "Burke, John M.", "affiliation": "University of Georgia, Athens, GA, USA", "orcid": "0000-0002-1412-5539" },
+    { "name": "Rieseberg, Loren H.", "affiliation": "University of British Columbia, Vancouver, BC, Canada", "orcid": "0000-0002-2712-2417" },
+    { "name": "Hulke, Brent S.", "affiliation": "USDA-Agricultural Research Service, Fargo, ND, USA", "orcid": "0000-0001-5380-0827" }
+  ],
+  "keywords": [
+    "sunflower",
+    "Helianthus annuus",
+    "GWAS",
+    "fatty acid composition",
+    "genotype-by-environment interaction",
+    "trait stability",
+    "oilseed"
+  ]
+}
