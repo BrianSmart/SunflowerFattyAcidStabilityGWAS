@@ -5,8 +5,7 @@ Analysis code for:
 > **The stability of fatty acid composition in sunflower oil is dependent on environment and affected by structural variation**
 > Markus Ingold, Qingming Gao, Jennifer R. Mandel, James P. McNellie, Kyle G. Keepers,
 > Jessica G. Barb, John M. Burke, Loren H. Rieseberg, and Brent S. Hulke
-> Submitted to *Theoretical and Applied Genetics*, Special Issue on Breeding for Improved
-> Crop Quality. Manuscript in review (2026).
+> Submitted to *Theoretical and Applied Genetics*. Manuscript in review (2026).
 
 ## Overview
 
