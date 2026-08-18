@@ -1,5 +1,7 @@
 # Sunflower Fatty Acid Stability GWAS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22001495.svg)](https://doi.org/10.5281/zenodo.22001495)
+
 Analysis code for:
 
 > **The stability of fatty acid composition in sunflower oil is dependent on environment and affected by structural variation**
@@ -164,6 +166,13 @@ Rough order of execution:
 
 If you use this code, please cite the paper (see `CITATION.cff`). The citation entry will be
 updated with the volume, pages and DOI once the paper is published.
+
+This code is archived on Zenodo. Cite the concept DOI, which always resolves to the most recent
+version:
+
+> **https://doi.org/10.5281/zenodo.22001495**
+
+The DOI for this specific release (v1.0.0) is https://doi.org/10.5281/zenodo.22001496.
 
 ## Funding
 

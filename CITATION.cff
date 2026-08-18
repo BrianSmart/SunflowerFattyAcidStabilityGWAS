@@ -32,6 +32,15 @@ authors:
     given-names: Brent S.
     orcid: "https://orcid.org/0000-0001-5380-0827"
 license: MIT
+doi: 10.5281/zenodo.22001495
+repository-code: "https://github.com/BrianSmart/SunflowerFattyAcidStabilityGWAS"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22001495
+    description: Concept DOI, resolving to the latest archived version
+  - type: doi
+    value: 10.5281/zenodo.22001496
+    description: DOI for release v1.0.0
 keywords:
   - sunflower
   - Helianthus annuus
