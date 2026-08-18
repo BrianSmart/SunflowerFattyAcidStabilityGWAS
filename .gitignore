@@ -1,0 +1,40 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+*.Rproj
+.Rprofile
+.Renviron
+
+# Genomic / GWAS data and intermediates (not version controlled)
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bed
+*.bim
+*.fam
+*.log
+*.nosex
+*.assoc.txt
+*.cXX.txt
+*.gff3
+*.fasta
+*.fa
+*.fai
+*.tif
+*.bam
+*.bam.bai
+output/
+Output/
+ADMIXTURE_Results/
+
+# Figures
+*.png
+*.pdf
+*.svg
+*.tiff
+
+# OS
+.DS_Store
+Thumbs.db

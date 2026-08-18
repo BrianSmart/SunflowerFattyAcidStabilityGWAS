@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Sunflower Fatty Acid Stability GWAS"
+abstract: >-
+  Analysis code for a GWAS of seed fatty acid composition and its stability in the
+  sunflower association mapping (SAM) population across eight North American environments.
+type: software
+authors:
+  - family-names: Ingold
+    given-names: Markus
+    orcid: "https://orcid.org/0009-0006-2435-3750"
+  - family-names: Gao
+    given-names: Qingming
+  - family-names: Mandel
+    given-names: Jennifer R.
+    orcid: "https://orcid.org/0000-0003-3539-2991"
+  - family-names: McNellie
+    given-names: James P.
+    orcid: "https://orcid.org/0000-0001-8067-511X"
+  - family-names: Keepers
+    given-names: Kyle G.
+    orcid: "https://orcid.org/0000-0002-2288-8018"
+  - family-names: Barb
+    given-names: Jessica G.
+  - family-names: Burke
+    given-names: John M.
+    orcid: "https://orcid.org/0000-0002-1412-5539"
+  - family-names: Rieseberg
+    given-names: Loren H.
+    orcid: "https://orcid.org/0000-0002-2712-2417"
+  - family-names: Hulke
+    given-names: Brent S.
+    orcid: "https://orcid.org/0000-0001-5380-0827"
+license: MIT
+keywords:
+  - sunflower
+  - Helianthus annuus
+  - GWAS
+  - fatty acid composition
+  - genotype-by-environment interaction
+  - trait stability
+preferred-citation:
+  type: article
+  title: >-
+    The stability of fatty acid composition in sunflower oil is dependent on environment
+    and affected by structural variation
+  authors:
+    - family-names: Ingold
+      given-names: Markus
+    - family-names: Gao
+      given-names: Qingming
+    - family-names: Mandel
+      given-names: Jennifer R.
+    - family-names: McNellie
+      given-names: James P.
+    - family-names: Keepers
+      given-names: Kyle G.
+    - family-names: Barb
+      given-names: Jessica G.
+    - family-names: Burke
+      given-names: John M.
+    - family-names: Rieseberg
+      given-names: Loren H.
+    - family-names: Hulke
+      given-names: Brent S.
+  year: 2026
